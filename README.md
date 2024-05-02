@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Edilson Alves
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=snipax&show_icons=true&include_all_commits=true&show=commits&theme=aura_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipax&layout=compact&theme=aura_dark" />
+</a>
 <!--
 **snipax/snipax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
