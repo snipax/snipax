@@ -1,6 +1,11 @@
 
   <h3 align="center"> Hi there 👋 I'm Edilson Alves </h3>
-<div id="card">
+<div  style="
+      display: flex;
+      align-content: flex-start;
+      align-items: center;
+      justify-content: space-evenly;
+">
 <a>
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=snipax&show_icons=true&include_all_commits=true&hide=contribs&theme=aura_dark" />
 </a>
