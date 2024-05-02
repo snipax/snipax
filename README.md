@@ -5,7 +5,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=snipax&show_icons=true&include_all_commits=true&hide=contribs&theme=aura_dark" />
 </a>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipax&layout=compact&theme=aura_dark" />
+  <img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipax&layout=compact&theme=aura_dark" />
 </a>
 </div>
 <!--
