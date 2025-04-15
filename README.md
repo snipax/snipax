@@ -6,6 +6,6 @@
 <a href="https://github.com/snipax">
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=snipax&show_icons=true&include_all_commits=true&hide=contribs&theme=aura_dark" />
 </a>
-<a href="https://snipax.github.io/Portfolio/">
+<a href="https://github.com/snipax?tab=repositories">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipax&layout=compact&theme=aura_dark" />
 </a>
